@@ -1,1 +1,0 @@
-# micro-frontend-shared-store
